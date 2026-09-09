@@ -1,0 +1,37 @@
+﻿location_id,city type,region,outlet _type,location_key
+101,Tier 1,East,Small,East|Tier 1|Small
+102,Tier 1,East,Medium,East|Tier 1|Medium
+103,Tier 1,East,Large,East|Tier 1|Large
+104,Tier 2,East,Small,East|Tier 2|Small
+105,Tier 2,East,Medium,East|Tier 2|Medium
+106,Tier 2,East,Large,East|Tier 2|Large
+107,Village,East,Small,East|Village|Small
+108,Village,East,Medium,East|Village|Medium
+109,Village,East,Large,East|Village|Large
+110,Tier 1,South,Small,South|Tier 1|Small
+111,Tier 1,South,Medium,South|Tier 1|Medium
+112,Tier 1,South,Large,South|Tier 1|Large
+113,Tier 2,South,Small,South|Tier 2|Small
+114,Tier 2,South,Medium,South|Tier 2|Medium
+115,Tier 2,South,Large,South|Tier 2|Large
+116,Village,South,Small,South|Village|Small
+117,Village,South,Medium,South|Village|Medium
+118,Village,South,Large,South|Village|Large
+119,Tier 1,West,Small,West|Tier 1|Small
+120,Tier 1,West,Medium,West|Tier 1|Medium
+121,Tier 1,West,Large,West|Tier 1|Large
+122,Tier 2,West,Small,West|Tier 2|Small
+123,Tier 2,West,Medium,West|Tier 2|Medium
+124,Tier 2,West,Large,West|Tier 2|Large
+125,Village,West,Small,West|Village|Small
+126,Village,West,Medium,West|Village|Medium
+127,Village,West,Large,West|Village|Large
+128,Tier 1,North,Small,North|Tier 1|Small
+129,Tier 1,North,Medium,North|Tier 1|Medium
+130,Tier 1,North,Large,North|Tier 1|Large
+131,Tier 2,North,Small,North|Tier 2|Small
+132,Tier 2,North,Medium,North|Tier 2|Medium
+133,Tier 2,North,Large,North|Tier 2|Large
+134,Village,North,Small,North|Village|Small
+135,Village,North,Medium,North|Village|Medium
+136,Village,North,Large,North|Village|Large

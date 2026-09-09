@@ -1,0 +1,26 @@
+# Excel temporary / lock files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary exports
+*.bak
+*.swp
